@@ -1,2 +1,0 @@
-# LearnHystrix
-Hystrix Demo
